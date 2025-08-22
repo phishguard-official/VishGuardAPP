@@ -6,7 +6,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.call_guard_app"
+    namespace = "org.vosk.flutter"
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
 
